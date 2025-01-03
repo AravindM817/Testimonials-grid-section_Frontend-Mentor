@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/AravindM817/Testimonials-grid-section_Frontend-Mentor)
-- Live Site URL: []()
+- Live Site URL: [spontaneous-tulumba-8e065b](https://spontaneous-tulumba-8e065b.netlify.app/)
 
 ## My process
 
